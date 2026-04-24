@@ -1,6 +1,6 @@
 # Smart Campus Management System
 
-A Java-based campus resource management application developed for the CMP 7001 Advanced Programming module. The system manages room bookings, maintenance requests, and user notifications across three user roles — Administrator, Staff, and Student.
+A Java-based campus resource management application. The system manages room bookings, maintenance requests, and user notifications across three user roles — Administrator, Staff, and Student.
 
 ---
 
@@ -120,7 +120,7 @@ SmartCampusSystem/
 3. View results in the Test Results panel at the bottom of NetBeans
 4. 17 tests are expected to pass
 5. 1 test (testBookingPastDate) is intentionally designed to fail
-
+##there having an issue when running
 ---
 
 ## Key Features
@@ -136,6 +136,4 @@ SmartCampusSystem/
 
 ## Author
 
-Aruna Indika
-CMP 7001 Advanced Programming
-Academic Year 2025-2026
+Aruna Indika | 2025-2026
